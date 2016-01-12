@@ -49,7 +49,14 @@ brew install sqlite
 Install From Binary
 ```
 
+#### Install on Ubuntu Linux:
+	```bash
+sudo apt-get install sqlite3
+```
+
 If homebrew isn't working out for you, you can download one of the pre-compiled binary packages available at the [downloads page](http://www.sqlite.org/download.html). Look for your operating system, download and install the appropriate binary.
+
+
 
 ## Trying it out
 
@@ -88,4 +95,4 @@ You should have created a test_sqlite.db file. Either open up the directory you 
 - [ZetCode sqlite3](http://zetcode.com/db/sqlite/)
 
 
-<a href='https://learn.co/lessons/sql-intro-and-installation-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<a href='https://learn.co/lessons/sql-intro-and-installation' data-visibility='hidden'>View this lesson on Learn.co</a>
